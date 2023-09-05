@@ -1,5 +1,6 @@
 # address_parse.py
 # Sergio Morales in collaboration with Gavin McGuire
+# Contact: scmoral3s@gmail.com 
 # Piru Group 2023
 
 # scrapes the map website in order to get all addresses
