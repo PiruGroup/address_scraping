@@ -11,6 +11,9 @@ Current List of Addresses: addresses.csv
 
 ## Operation
 To run the Python Program on Mac or Linux:
+
 In the command line run
+
 $python3 address_parse.py
+
 A csv file should be created in the working folder
